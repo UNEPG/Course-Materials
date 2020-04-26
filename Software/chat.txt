@@ -1,0 +1,59 @@
+15:12:33	 From  Leila from Laptop : wait, what to delete? 
+15:12:38	 From  Leila from Laptop : I am sorry 
+15:13:08	 From  LEON : Естилмей жатыр(
+15:13:13	 From  Leila from Laptop : ok, thanks! Got it. It is related to GitHub? 
+15:13:13	 From  Zhanna Suimenbayeva : omg
+15:28:50	 From  Zhanna Suimenbayeva : programs
+15:33:05	 From  Zhanna Suimenbayeva : old fashioned
+15:34:16	 From  Zhanna Suimenbayeva : yes
+15:34:18	 From  Zhanna Suimenbayeva : hard 
+15:38:41	 From  Zhanna Suimenbayeva : ok
+15:42:28	 From  Айана Соммер : Azat agai did you ever try to hack systems? :)
+15:42:37	 From  Жания : ++++
+15:42:41	 From  Leila from Laptop : ++++
+15:42:46	 From  Zhanna Suimenbayeva : ))
+15:42:53	 From  LEON : :D
+15:43:15	 From  Zhanna Suimenbayeva : is it time over?
+15:44:06	 From  Zhanna Suimenbayeva : or we purchased license?
+15:44:37	 From  Leila from Laptop : now I understood that there is a difference between directory and folder 
+15:44:46	 From  Zhanna Suimenbayeva : got it
+15:44:47	 From  Leila from Laptop : I was thinking they are the same 
+15:44:52	 From  Leila from Laptop : tahnks for that question 
+15:45:33	 From  Sagynysh Tulepbergen   to   UniSat Kazakhstan(Privately) : so, bin, boot , media
+15:45:47	 From  Sagynysh Tulepbergen   to   UniSat Kazakhstan(Privately) : they are not directories 
+15:46:05	 From  Sagynysh Tulepbergen : so bin boot media
+15:46:14	 From  Sagynysh Tulepbergen : they are not directories?
+15:46:25	 From  Sagynysh Tulepbergen : they are folders yeah
+15:46:36	 From  Жания : +
+15:46:43	 From  Zhanna Suimenbayeva : directories and folders are same
+15:47:15	 From  Sagynysh Tulepbergen   to   UniSat Kazakhstan(Privately) : what is difference between them
+15:47:28	 From  Sagynysh Tulepbergen : what is difference between them
+15:47:51	 From  Leila from Laptop : +
+15:48:03	 From  Zhanna Suimenbayeva : nope
+15:48:05	 From  Айана Соммер : something unexpected
+15:48:16	 From  Айана Соммер : uncontrollable
+15:48:54	 From  Zhanna Suimenbayeva : козырь?
+15:51:40	 From  Leila from Laptop : something like substitution law, right? 
+15:56:50	 From  Zhanna Suimenbayeva : zoom out a little plz
+15:58:15	 From  Zhanna Suimenbayeva : ok
+15:59:48	 From  Zhanna Suimenbayeva : range only for figures?
+16:01:20	 From  Zhanna Suimenbayeva : ok
+16:01:38	 From  Nazym Ungarova : beautiful!
+16:02:04	 From  Zhanna Suimenbayeva : Linux shd be case sensitive
+16:02:05	 From  Aigerim Altayeva : I’m here, sorry for late
+16:04:46	 From  Zhanna Suimenbayeva : ls *.jpg
+16:07:08	 From  Zhanna Suimenbayeva : zoom out plz
+16:09:55	 From  Zhanna Suimenbayeva : I found how to zoom it out. 
+16:10:26	 From  Zhanna Suimenbayeva : yes 
+16:15:57	 From  Aiana : извините мы только что попытались с папой из-за того что интернет перестал работать, он попробовал починить но стало только хуже(
+16:16:50	 From  Amirkhan Temirbayev : Да, интересно. В городе тоже плохой интернет?
+16:18:03	 From  Aigerim Altayeva : Школы проводят онлайн обучение
+16:18:25	 From  Aigerim Altayeva : из за этого интернет плохой
+16:18:52	 From  Aigerim Altayeva : Большая нагрузка на сервер
+16:34:14	 From  Zhanna Suimenbayeva : so user is owner
+16:35:54	 From  Zhanna Suimenbayeva : can I write u+r+w+x in a row?
+16:37:18	 From  Sagynysh Tulepbergen : very interesting!
+16:37:19	 From  Zhanna Suimenbayeva : g+w+r? is is possible
+16:41:36	 From  Sagynysh Tulepbergen : what did u say about numbers at last?
+16:41:36	 From  Zhanna Suimenbayeva : in ls -F @ and * files what stans for
+16:41:38	 From  Дана :  can you send this file (today's lesson)?

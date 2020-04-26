@@ -1,0 +1,101 @@
+15:26:04	 From  Zhanna Suimenbayeva : yes
+15:26:05	 From  Leila from Laptop : right
+15:26:06	 From  Дариға Кошкимбай : right
+15:26:19	 From  Zhanna Suimenbayeva : *, ? []
+15:26:55	 From  Дариға Кошкимбай : much more slozhno* made my day
+15:26:59	 From  Leila from Laptop : ++
+15:30:15	 From  Leila from Laptop : is it brace and bracket???? 
+15:30:26	 From  Leila from Laptop : thnaks
+15:33:28	 From  Zhanna Suimenbayeva : nope
+15:33:32	 From  Zhanna Suimenbayeva : стена 
+15:33:33	 From  Leila from Laptop : dauystylar
+15:33:39	 From  Дариға Кошкимбай : гласные
+15:33:48	 From  Zhanna Suimenbayeva : гласные
+15:35:34	 From  Leila from Laptop : with NOT 
+15:36:38	 From  Leila from Laptop : {n, m]
+15:36:43	 From  Leila from Laptop : n to m 
+15:36:53	 From  Zhanna Suimenbayeva : {2,+}
+15:37:29	 From  Leila from Laptop : +
+15:37:30	 From  Zhanna Suimenbayeva : yes
+15:38:01	 From  Zhanna Suimenbayeva : ok
+15:40:40	 From  Leila from Laptop : 2.
+15:43:12	 From  Zhanna Suimenbayeva : .2
+15:43:13	 From  Дариға Кошкимбай : +2
+15:44:05	 From  Leila from Laptop : maybe we don't have NOT 
+15:44:11	 From  Leila from Laptop : after 2
+15:44:20	 From  Zhanna Suimenbayeva : +.2
+15:44:27	 From  Leila from Laptop : +2^
+15:44:38	 From  Aigerim Altayeva : .2
+15:44:45	 From  Дариға Кошкимбай : *2
+15:45:05	 From  Leila from Laptop : 2$^
+15:45:18	 From  Дариға Кошкимбай : $
+15:45:48	 From  Leila from Laptop : oops
+15:45:50	 From  Aruzhan Kenzhebek : ?2$
+15:45:53	 From  Zhanna Suimenbayeva : 2$
+15:47:20	 From  Leila from Laptop : ^A+
+15:49:34	 From  Leila from Laptop : {is or go]
+15:49:39	 From  Дариға Кошкимбай : {is|or|go}
+15:49:43	 From  Zhanna Suimenbayeva : (is)|(or)|(go)
+15:52:06	 From  Zhanna Suimenbayeva : [A-K]
+15:52:30	 From  Дариға Кошкимбай : {A-K}
+15:52:35	 From  Leila from Laptop : ^{A-K}
+15:53:40	 From  Leila from Laptop : [}???
+15:53:43	 From  Leila from Laptop : {}
+15:53:44	 From  Leila from Laptop : []
+15:53:49	 From  Leila from Laptop : ok
+15:53:59	 From  Дариға Кошкимбай : ok
+15:54:21	 From  Leila from Laptop : no
+15:54:23	 From  Zhanna Suimenbayeva : nope
+15:55:02	 From  Leila from Laptop : rwx
+15:55:19	 From  Zhanna Suimenbayeva : 1 -everything for everybody
+15:55:45	 From  Leila from Laptop : rwx-r-x-rw-
+15:55:49	 From  Дариға Кошкимбай : 111 101 110
+15:56:10	 From  Leila from Laptop : -wxr--r-x
+15:56:11	 From  Амина Лайстен : rwx, rx, rw
+15:56:24	 From  Zhanna Suimenbayeva : 621 - rw--w-x
+15:57:57	 From  Амина Лайстен : 421
+15:59:05	 From  Leila from Laptop : 154
+15:59:10	 From  Leila from Laptop : 056
+15:59:25	 From  Leila from Laptop : any volunteer? 
+15:59:28	 From  Leila from Laptop : yes
+15:59:49	 From  Leila from Laptop : --xr-xrw-
+15:59:52	 From  Leila from Laptop : right!
+16:00:08	 From  Aruzhan Kenzhebek : 623
+16:00:08	 From  Leila from Laptop : 073
+16:00:24	 From  Дариға Кошкимбай : --- rwx -wx
+16:00:28	 From  orissim : --- rwx -wx
+16:00:29	 From  Leila from Laptop : right
+16:00:54	 From  Амина Лайстен : 744
+16:01:10	 From  Дариға Кошкимбай : rw- -w- -wx
+16:01:13	 From  Aruzhan Suleimenova : rw- -w- -wx
+16:01:16	 From  orissim : rw w wx
+16:01:18	 From  Zhanna Suimenbayeva : rx -w- xw
+16:01:24	 From  Zhanna Suimenbayeva : 110   011   100
+16:01:32	 From  Leila from Laptop : 623 - rw- -w- -wx
+16:02:18	 From  Дариға Кошкимбай : 6 44
+16:02:19	 From  Aruzhan Suleimenova : 622
+16:02:21	 From  Zhanna Suimenbayeva : 644
+16:02:24	 From  Амина Лайстен : 644
+16:02:29	 From  Aruzhan Suleimenova : 644
+16:03:05	 From  Zhanna Suimenbayeva : 761
+16:03:07	 From  Aruzhan Kenzhebek : 751
+16:03:12	 From  Дариға Кошкимбай : 351
+16:03:13	 From  Aigerim Altayeva : 751
+16:03:14	 From  Leila from Laptop : rwx - 7 r-w??? 
+16:03:22	 From  orissim : 761
+16:03:32	 From  Leila from Laptop : 7X1
+16:03:33	 From  Sagynysh Tulepbergen : 751
+16:03:33	 From  Дариға Кошкимбай : 751
+16:04:46	 From  Zhanna Suimenbayeva : break?
+16:04:54	 From  Дариға Кошкимбай : mb
+16:05:09	 From  Дариға Кошкимбай : ok
+16:05:11	 From  Zhanna Suimenbayeva : 2 min
+16:21:36	 From  orissim : p-0
+16:25:50	 From  Leila from Laptop : yes
+16:25:53	 From  Zhanna Suimenbayeva : yes
+16:35:54	 From  Leila from Laptop : word count
+16:36:00	 From  Zhanna Suimenbayeva : word count
+16:37:21	 From  Zhanna Suimenbayeva : ok
+16:41:13	 From  Zhanna Suimenbayeva : 37 in last line
+16:41:48	 From  Zhanna Suimenbayeva : ))
+16:42:41	 From  Leila from Laptop : how these arrows called overall
